@@ -1,0 +1,6 @@
+{
+  "quartos": [
+    { "id": 1, "tipo": "Standard", "disponivel": true },
+    { "id": 2, "tipo": "Duplo", "disponivel": false }
+  ]
+}
